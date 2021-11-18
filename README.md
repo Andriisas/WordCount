@@ -1,1 +1,1 @@
-# WordCount
+# Task of creation WordCount functionality
